@@ -1,4 +1,3 @@
-//Create a readme file for the ZMK personal firmware repository for Sofle keyboard
 # ZMK Personal Firmware for Sofle Keyboard
 
 This repository contains my personal firmware for the Sofle keyboard, built using [ZMK firmware](https://github.com/zmkfirmware/zmk/).
